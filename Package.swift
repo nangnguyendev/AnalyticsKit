@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "13.0.0"),
-        .package(url: "https://github.com/nangnguyendev/Ads.git", from: "1.0.0")
+        .package(url: "https://github.com/nangnguyendev/Ads.git", from: "1.2.0")
     ],
     targets: [
         .target(name: "AnalyticsKit"),

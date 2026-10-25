@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.0] - 2026-10-25
+
+### Added
+- `AnalyticsKitAdKit` reports native ads (`ad_format: native`), for AdKit 1.2.0. Requires AdKit 1.2.0 or later.
+
 ## [1.0.0] - 2026-10-22
 
 ### Added

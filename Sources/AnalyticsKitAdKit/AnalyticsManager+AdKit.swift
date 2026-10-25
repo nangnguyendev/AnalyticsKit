@@ -60,6 +60,7 @@ public extension AdFormat {
         case .interstitial: return "interstitial"
         case .rewarded: return "rewarded"
         case .appOpen: return "app_open"
+        case .native: return "native"
         }
     }
 }
